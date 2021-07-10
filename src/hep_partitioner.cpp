@@ -378,7 +378,7 @@ void HepPartitioner::in_memory_clean_up_neighbors(vid_t vid, dense_bitset & is_c
 	}
 }
 
-
+// HEP
 void HepPartitioner::partition_in_memory(){
 
 	bool expansion_finished = false;
@@ -450,7 +450,7 @@ void HepPartitioner::partition_in_memory(){
 
 
 /*
-compute_partition_score: all the same; needn't change
+compute_partition_score: all the same; needn't changing
 */
 double HepPartitioner::compute_partition_score(vid_t u, vid_t v, int bucket_id) {
 	if (occupied[bucket_id] >= capacity){
