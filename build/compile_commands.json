@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-6 -DGFLAGS_IS_A_DLL=0   -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles/main.dir/src/main.o -c /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/main.cpp",
+  "file": "/root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/main.cpp"
+},
+{
+  "directory": "/root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-6 -DGFLAGS_IS_A_DLL=0   -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles/main.dir/src/util.o -c /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/util.cpp",
+  "file": "/root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/util.cpp"
+},
+{
+  "directory": "/root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-6 -DGFLAGS_IS_A_DLL=0   -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles/main.dir/src/graph.o -c /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/graph.cpp",
+  "file": "/root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/graph.cpp"
+},
+{
+  "directory": "/root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-6 -DGFLAGS_IS_A_DLL=0   -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles/main.dir/src/hep_partitioner.o -c /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/hep_partitioner.cpp",
+  "file": "/root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/hep_partitioner.cpp"
+},
+{
+  "directory": "/root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-6 -DGFLAGS_IS_A_DLL=0   -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles/main.dir/src/ne_graph.o -c /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/ne_graph.cpp",
+  "file": "/root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/ne_graph.cpp"
+},
+{
+  "directory": "/root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-6 -DGFLAGS_IS_A_DLL=0   -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles/main.dir/src/ne_partitioner.o -c /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/ne_partitioner.cpp",
+  "file": "/root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/ne_partitioner.cpp"
+},
+{
+  "directory": "/root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-6 -DGFLAGS_IS_A_DLL=0   -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles/main.dir/src/Vertex2EdgePart.o -c /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/Vertex2EdgePart.cpp",
+  "file": "/root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/Vertex2EdgePart.cpp"
+},
+{
+  "directory": "/root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-6 -DGFLAGS_IS_A_DLL=0   -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles/main.dir/src/conversions.o -c /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/conversions.cpp",
+  "file": "/root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/conversions.cpp"
+}
+]
