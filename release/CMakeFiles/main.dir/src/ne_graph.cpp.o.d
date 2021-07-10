@@ -1,7 +1,7 @@
 CMakeFiles/main.dir/src/ne_graph.cpp.o: \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/ne_graph.cpp \
+ /root/summer/block_greedy/block_greedy/src/ne_graph.cpp \
  /usr/include/stdc-predef.h \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/ne_graph.hpp \
+ /root/summer/block_greedy/block_greedy/src/ne_graph.hpp \
  /usr/include/c++/5/vector /usr/include/c++/5/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/5/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/5/bits/os_defines.h \
@@ -225,7 +225,7 @@ CMakeFiles/main.dir/src/ne_graph.cpp.o: \
  /usr/include/c++/5/parallel/merge.h \
  /usr/include/c++/5/parallel/unique_copy.h \
  /usr/include/c++/5/parallel/set_operations.h \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/util.hpp \
+ /root/summer/block_greedy/block_greedy/src/util.hpp \
  /usr/include/c++/5/chrono /usr/include/c++/5/ratio \
  /usr/include/c++/5/ctime /usr/include/c++/5/bits/parse_numbers.h \
  /usr/include/x86_64-linux-gnu/sys/stat.h \

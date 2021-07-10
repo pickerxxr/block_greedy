@@ -332,7 +332,7 @@ double NePartitioner::compute_partition_score(vid_t u, vid_t v, int bucket_id) {
 }
 
 
-double NePartitioner::compute_partition_score_tiebrea1111111king_balance(vid_t u, vid_t v, int bucket_id) {
+double NePartitioner::compute_partition_score_tiebreaking_balance(vid_t u, vid_t v, int bucket_id) {
 	if (occupied[bucket_id] >= capacity){
 //		cout << "partition " << bucket_id << " is full with " << occupied[bucket_id] << endl;
 		return -1.0; // partition is full, do not choose it

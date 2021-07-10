@@ -1,7 +1,7 @@
 CMakeFiles/main.dir/src/graph.cpp.o: \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/graph.cpp \
+ /root/summer/block_greedy/block_greedy/src/graph.cpp \
  /usr/include/stdc-predef.h \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/graph.hpp \
+ /root/summer/block_greedy/block_greedy/src/graph.hpp \
  /usr/include/c++/5/set /usr/include/c++/5/bits/stl_tree.h \
  /usr/include/c++/5/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/5/bits/c++config.h \
@@ -254,7 +254,7 @@ CMakeFiles/main.dir/src/graph.cpp.o: \
  /usr/include/c++/5/bits/hashtable.h \
  /usr/include/c++/5/bits/hashtable_policy.h \
  /usr/include/c++/5/bits/unordered_map.h \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/util.hpp \
+ /root/summer/block_greedy/block_greedy/src/util.hpp \
  /usr/include/c++/5/chrono /usr/include/c++/5/ratio \
  /usr/include/c++/5/ctime /usr/include/c++/5/bits/parse_numbers.h \
  /usr/include/x86_64-linux-gnu/sys/stat.h \
@@ -273,8 +273,8 @@ CMakeFiles/main.dir/src/graph.cpp.o: \
  /usr/local/include/glog/export.h /usr/include/inttypes.h \
  /usr/local/include/glog/log_severity.h \
  /usr/local/include/glog/vlog_is_on.h \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/dense_bitset.hpp \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/conversions.hpp \
+ /root/summer/block_greedy/block_greedy/src/dense_bitset.hpp \
+ /root/summer/block_greedy/block_greedy/src/conversions.hpp \
  /usr/local/include/boost/unordered_map.hpp \
  /usr/local/include/boost/config.hpp \
  /usr/local/include/boost/config/user.hpp \

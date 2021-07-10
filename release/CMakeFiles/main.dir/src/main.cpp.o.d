@@ -1,5 +1,5 @@
 CMakeFiles/main.dir/src/main.cpp.o: \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/main.cpp \
+ /root/summer/block_greedy/block_greedy/src/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/5/string \
  /usr/include/x86_64-linux-gnu/c++/5/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/5/bits/os_defines.h \
@@ -89,7 +89,7 @@ CMakeFiles/main.dir/src/main.cpp.o: \
  /usr/include/c++/5/bits/functional_hash.h \
  /usr/include/c++/5/bits/hash_bytes.h \
  /usr/include/c++/5/bits/basic_string.tcc \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/hep_partitioner.hpp \
+ /root/summer/block_greedy/block_greedy/src/hep_partitioner.hpp \
  /usr/include/c++/5/vector /usr/include/c++/5/bits/stl_construct.h \
  /usr/include/c++/5/bits/stl_uninitialized.h \
  /usr/include/c++/5/bits/stl_vector.h \
@@ -202,7 +202,7 @@ CMakeFiles/main.dir/src/main.cpp.o: \
  /usr/include/c++/5/bits/stl_tree.h \
  /usr/include/c++/5/ext/aligned_buffer.h \
  /usr/include/c++/5/bits/stl_set.h /usr/include/c++/5/bits/stl_multiset.h \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/util.hpp \
+ /root/summer/block_greedy/block_greedy/src/util.hpp \
  /usr/include/c++/5/utility /usr/include/c++/5/bits/stl_relops.h \
  /usr/include/c++/5/chrono /usr/include/c++/5/ratio \
  /usr/include/c++/5/ctime /usr/include/c++/5/bits/parse_numbers.h \
@@ -215,11 +215,11 @@ CMakeFiles/main.dir/src/main.cpp.o: \
  /usr/include/c++/5/bits/sstream.tcc /usr/local/include/glog/export.h \
  /usr/include/inttypes.h /usr/local/include/glog/log_severity.h \
  /usr/local/include/glog/vlog_is_on.h \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/min_heap.hpp \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/dense_bitset.hpp \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/edgepart.hpp \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/partitioner.hpp \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/graph.hpp \
+ /root/summer/block_greedy/block_greedy/src/min_heap.hpp \
+ /root/summer/block_greedy/block_greedy/src/dense_bitset.hpp \
+ /root/summer/block_greedy/block_greedy/src/edgepart.hpp \
+ /root/summer/block_greedy/block_greedy/src/partitioner.hpp \
+ /root/summer/block_greedy/block_greedy/src/graph.hpp \
  /usr/include/c++/5/parallel/algorithm /usr/include/c++/5/algorithm \
  /usr/include/c++/5/bits/stl_algo.h \
  /usr/include/c++/5/bits/algorithmfwd.h \
@@ -284,7 +284,7 @@ CMakeFiles/main.dir/src/main.cpp.o: \
  /usr/include/c++/5/array /usr/include/c++/5/bits/hashtable.h \
  /usr/include/c++/5/bits/hashtable_policy.h \
  /usr/include/c++/5/bits/unordered_map.h \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/ne_partitioner.hpp \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/ne_min_heap.hpp \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/ne_graph.hpp \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/Vertex2EdgePart.hpp
+ /root/summer/block_greedy/block_greedy/src/ne_partitioner.hpp \
+ /root/summer/block_greedy/block_greedy/src/ne_min_heap.hpp \
+ /root/summer/block_greedy/block_greedy/src/ne_graph.hpp \
+ /root/summer/block_greedy/block_greedy/src/Vertex2EdgePart.hpp

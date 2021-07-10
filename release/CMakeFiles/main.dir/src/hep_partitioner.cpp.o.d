@@ -1,7 +1,7 @@
 CMakeFiles/main.dir/src/hep_partitioner.cpp.o: \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/hep_partitioner.cpp \
+ /root/summer/block_greedy/block_greedy/src/hep_partitioner.cpp \
  /usr/include/stdc-predef.h \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/conversions.hpp \
+ /root/summer/block_greedy/block_greedy/src/conversions.hpp \
  /usr/include/c++/5/string \
  /usr/include/x86_64-linux-gnu/c++/5/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/5/bits/os_defines.h \
@@ -570,7 +570,7 @@ CMakeFiles/main.dir/src/hep_partitioner.cpp.o: \
  /usr/local/include/boost/utility/enable_if.hpp \
  /usr/local/include/boost/unordered/unordered_map_fwd.hpp \
  /usr/local/include/boost/functional/hash_fwd.hpp \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/util.hpp \
+ /root/summer/block_greedy/block_greedy/src/util.hpp \
  /usr/include/c++/5/chrono /usr/include/c++/5/ratio \
  /usr/include/c++/5/ctime /usr/include/c++/5/bits/parse_numbers.h \
  /usr/include/x86_64-linux-gnu/sys/stat.h \
@@ -581,7 +581,7 @@ CMakeFiles/main.dir/src/hep_partitioner.cpp.o: \
  /usr/local/include/glog/logging.h /usr/local/include/glog/export.h \
  /usr/include/inttypes.h /usr/local/include/glog/log_severity.h \
  /usr/local/include/glog/vlog_is_on.h \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/hep_partitioner.hpp \
+ /root/summer/block_greedy/block_greedy/src/hep_partitioner.hpp \
  /usr/include/c++/5/iostream /usr/include/fcntl.h \
  /usr/include/x86_64-linux-gnu/bits/fcntl.h \
  /usr/include/x86_64-linux-gnu/bits/fcntl-linux.h \
@@ -590,11 +590,11 @@ CMakeFiles/main.dir/src/hep_partitioner.cpp.o: \
  /usr/include/x86_64-linux-gnu/sys/mman.h \
  /usr/include/x86_64-linux-gnu/bits/mman.h \
  /usr/include/x86_64-linux-gnu/bits/mman-linux.h \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/min_heap.hpp \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/dense_bitset.hpp \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/edgepart.hpp \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/partitioner.hpp \
- /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/src/graph.hpp \
+ /root/summer/block_greedy/block_greedy/src/min_heap.hpp \
+ /root/summer/block_greedy/block_greedy/src/dense_bitset.hpp \
+ /root/summer/block_greedy/block_greedy/src/edgepart.hpp \
+ /root/summer/block_greedy/block_greedy/src/partitioner.hpp \
+ /root/summer/block_greedy/block_greedy/src/graph.hpp \
  /usr/include/c++/5/parallel/algorithm \
  /usr/include/c++/5/parallel/algorithmfwd.h \
  /usr/include/c++/5/parallel/tags.h \
