@@ -1,4 +1,4 @@
-# Install script for directory: /root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner
+# Install script for directory: /root/summer/block_greedy/block_greedy
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/root/summer/block_greedy/block_greedy/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

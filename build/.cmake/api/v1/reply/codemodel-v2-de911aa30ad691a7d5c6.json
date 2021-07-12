@@ -7,6 +7,10 @@
 				{
 					"build" : ".",
 					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
 					"projectIndex" : 0,
 					"source" : ".",
 					"targetIndexes" : 
@@ -35,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "main::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-main-Debug-36d049825224328dfb60.json",
+					"jsonFile" : "target-main-Debug-11816748819c1171cfb8.json",
 					"name" : "main",
 					"projectIndex" : 0
 				}
@@ -45,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner/build",
-		"source" : "/root/Desktop/other_paper_work/HEP/hybrid_edge_partitioner"
+		"build" : "/root/summer/block_greedy/block_greedy/build",
+		"source" : "/root/summer/block_greedy/block_greedy"
 	},
 	"version" : 
 	{
