@@ -1,5 +1,6 @@
 #include <string>
 
+#include "bg_partitioner.hpp"
 #include "hep_partitioner.hpp"
 #include "ne_partitioner.hpp"
 #include "util.hpp"
@@ -40,7 +41,9 @@ int main(int argc, char *argv[])
     Timer timer;
     timer.start();
     Partitioner *partitioner = NULL;
-    if (FLAGS_method == "hep")
+    if (FLAGS_method == "bg")
+        partitioner = new BgPartition(FLAGS_filename);
+    else if (FLAGS_method == "hep")
         partitioner = new HepPartitioner(FLAGS_filename);
     else if (FLAGS_method == "ne")
         	partitioner = new NePartitioner(FLAGS_filename);
