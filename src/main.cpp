@@ -3,6 +3,7 @@
 #include "bg_partitioner.hpp"
 #include "hep_partitioner.hpp"
 #include "ne_partitioner.hpp"
+#include "ne_stop.hpp"
 #include "util.hpp"
 #include "Vertex2EdgePart.hpp"
 

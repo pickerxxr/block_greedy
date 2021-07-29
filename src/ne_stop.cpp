@@ -1,4 +1,4 @@
-#include "ne_partitioner.hpp"
+#include "ne_stop.hpp"
 #include "conversions.hpp"
 
 NePartitioner::NePartitioner(std::string basefilename)
