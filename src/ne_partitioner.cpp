@@ -146,7 +146,7 @@ size_t NePartitioner::count_mirrors()
 
 void NePartitioner::split()
 {
-    LOG(INFO) << "partition `" << basefilename << "'";
+    LOG(INFO) << "partition " << basefilename << "'";
     LOG(INFO) << "number of partitions: " << p;
 
     Timer compute_timer;
